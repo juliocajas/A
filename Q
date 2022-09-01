@@ -1,0 +1,5 @@
+#EXTM3U list-name="Canales Latinos ðŸ˜ " list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Lavf/57.71.001
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Deportes",Afizzionados
+https://v3.playerlatino.live/stream/m3u8/878
